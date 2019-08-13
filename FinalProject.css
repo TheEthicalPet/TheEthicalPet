@@ -1,17 +1,17 @@
  body {
-  background-color: lightblue;
+  background-color: white;
   }
 
 /* Style the tab */
 .tab {
   overflow: hidden;
-  background-color: lightblue;
+  background-color: white;
   text-align: center;
 }
 
 /* Style the buttons inside the tab */
  .tab button {
-  background-color: lightblue;
+  background-color: white;
   float: left;
   border:none;
   outline: black;
@@ -32,7 +32,7 @@
 
 /* Change background color of buttons on hover */
  .tab button:hover {
-  background-color: grey;
+  background-color: brown;
 }
 
 /* Create an active/current tablink class */
@@ -46,14 +46,14 @@
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
-  background-color: lightblue;
+  background-color: white;
 }
 
 .buttons{
   margin-left: 50px;
   font-size: 15px;
-  border: lightgrey solid 10px;
-  background-color: lightgrey;
+  border: rgb(222,184,135) solid 10px;
+  background-color: rgb(222,184,135);
   text-align: center;
 }
 
@@ -82,13 +82,28 @@
 }
 .shelfontwo{
   font-size: 20px;
+
 }
 .fostfont {
   font-size: 20px;
 }
+
 .storfont {
   font-size: 20px;
 }
 .stigfont {
   font-size: 20px;
+}
+.selpage{
+  background-color: white;
+}
+.left{
+  margin-left: 5px;
+  max-width: 20%;
+  float: left;
+}
+.words{
+  margin-left: 260px;
+  max-width: 80%;
+  padding-left: 10px;
 }
