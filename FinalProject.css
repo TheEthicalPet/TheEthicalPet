@@ -98,12 +98,10 @@
   background-color: white;
 }
 .left{
-  margin-left: 5px;
-  max-width: 20%;
   float: left;
 }
 .words{
-  margin-left: 260px;
+  margin-left: 200px;
   max-width: 80%;
   padding-left: 10px;
 }
